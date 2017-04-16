@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SHA1 Check")]
-[assembly: AssemblyDescription("used to check the integrity of a downloaded file using the SHA-1 hash")]
+[assembly: AssemblyTitle("File Integrity Check")]
+[assembly: AssemblyDescription("Used to check the integrity of a downloaded file using the SHA-1 hash")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Bradley Petersen")]
-[assembly: AssemblyProduct("SHA1 Check by Bradley Petersen")]
+[assembly: AssemblyProduct("File Integrity Check by Bradley Petersen")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
